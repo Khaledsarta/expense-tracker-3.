@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Groceries",
+    "amount": 500,
+    "category": "Food",
+    "type": "expense"
+  },
+  {
+    "id": 2,
+    "title": "Salary",
+    "amount": 10000,
+    "category": "Work",
+    "type": "income"
+  }
+]
